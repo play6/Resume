@@ -3,22 +3,22 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             182xxxx
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             111xxxx
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/GavinAlison">GavinAlison</a>
          </span>
          ·
          <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <img src="assets/jianshu.png" width="40px">
+             <a href="https://www.jianshu.com/u/8290a0f57153">My Blog-简书</a>
          </span>
      </div>
  </center>
@@ -27,7 +27,7 @@
 
  - 男，1992 年出生
  - 求职意向：Java 研发工程师
- - 工作经验：3 年
+ - 工作经验：4年
  - 期望薪资：面议
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
@@ -47,10 +47,9 @@
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **取证项目**
-    
-  - *Spring cloud 系列、 Spring boot、Xxl-job、ElasticSearch、Jeffy、RabbitMQ、
-  Oss、Netty、Rpc、Neo4j、FastJson、Docker、Samba、人脸识别、OCR、Vue、ECMAScript 6*
- 
+  
+  - *Spring cloud 系列、 Spring boot、Xxl-job、ElasticSearch、RabbitMQ、Oss、Netty、Rpc、Neo4j、FastJson、Docker、Samba、人脸识别、OCR、Vue、ECMAScript 6*
+
   - 项目以微服务为基础，对手机信息进行取证，提取出手机基本信息、通讯录、短信信息、各种应用安装信息、
   以及应用中社交好友群组、浏览记录、通联记录、邮件记录等信息，也包括地图类应用信息的使用记录，
   并对这些信息进行展示、统计、分析，搜索。
@@ -63,12 +62,11 @@
         -   APP的通讯录信息、电话、短信记录、好友记录、群组记录、通联记录、通联记录的统计信息、邮件信息展示；
         -   个人财务收入统计，时间段的收入/支出统计，月份收入与支出，交易次数以图形化形式展示，top10月份交易数量排行、交易人排行、每周交易总额排行展示等等。
         -   技能战警信息，涉黄/涉毒/异常经济行为/异常社交行为概览信息展示。主要展示通联记录、社交好友记录、银行APP的入账/出账和社交APP的红包/转账的经济来往信息
-    
+  
 -   **块数据分析系统**
-    - *Structs2、MongoDB、Thread Pool、ETL(C++)、SQLServer、MySQL、JDBC、Jpa、MyBatis、ElasticSearch、
-    Guava、NLP(分词、情感)、Python、JQuery、JavaScript、D3*
+    - *Struts2、MongoDB、Thread Pool、ETL(C++)、SQLServer、MySQL、JDBC、Jpa、MyBatis、ElasticSearch、Guava、NLP(分词、情感)、Python、JQuery、JavaScript、D3*
     
-    - 项目采用Structs2技术，对上传的批量文件提取出人物、组织、机构等相关信息、从而提出有关的可疑人物。
+    - 项目采用Struts2技术，对上传的批量文件提取出人物、组织、机构等相关信息、从而提出有关的可疑人物。
     该系统包括众多子系统，有烤鸭web端、数据管理、数据处理ETL、数据分析、数据研判、数据搜索、网盘浏览系统
     
     - 角色： 开发工程师
@@ -86,7 +84,6 @@
         -   修改数据处理速度，对文件批次上传处理过程进行分析，拆分出占用时间比重大的过程，发现NLP提取信息占比大,
         将其系统化，分布式部署，使用多线程处理，大大加快处理数据的能力，对百G的文件，处理时间由24h减少至12h
     
-    
 - **PMS生产管理项目**
 
   - *Spring MVC、Velocity、IBatis、EXT JS、JQuery、Flash、POI、WerbSocket*
@@ -99,13 +96,13 @@
   - 业绩： 
     -  深入生产单位进行调研，对调研的文档进行整理，与技术协议和设计方案对比，针对性的开发，对其部分功能进行修改。
     然后实施，部署，需求迭代变更，编写用户手册，管理员手册，测试报告，试运行文档，验收文档。
-    -  对接系统系统
+    -  对接质量系统
     
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★ Java、JVM、Collection、Reflect、ClassLoader、Cache、Java Proxy
 - ★★★ NIO、JUC、Thread Pool、Annotation、Java8
-- ★☆☆ Python、爬虫
+- ★☆☆ Python、爬虫、Shell、Netty
 - ★★★ MySQL、Oracle、SqlServer、SQL优化
 - ★★★ Redis、MongoDB、ElasticSearch
 - ★★★ Hibernate、IBatis、MyBatis、JPA、JDBC
