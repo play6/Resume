@@ -104,7 +104,7 @@
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★ Java、JVM、Collection、Reflect、ClassLoader、Cache、Java Proxy
-- ★★★ NIO、JUC、Thread Pool
+- ★★★ NIO、JUC、Thread Pool、Annotation、Java8
 - ★☆☆ Python、爬虫
 - ★★★ MySQL、Oracle、SqlServer、SQL优化
 - ★★★ Redis、MongoDB、ElasticSearch
