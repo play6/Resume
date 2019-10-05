@@ -3,12 +3,12 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             182xxxx
+             182xxxxx
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             111xxxx
+             110xxxxx
          </span>
          ·
          <span>
@@ -29,6 +29,14 @@
  - 求职意向：Java 研发工程师
  - 工作经验：4年
  - 期望薪资：面议
+
+## <img src="assets/person.svg" width="30px"> 个人介绍
+
+-   致力于Java开发的工作,拥有近4年开发经历 
+-   工作中注意细节，认真负责，具有强烈的责任感，善于思考、能发现问题并分析和及时解决问题
+-   能快速的融入团队，具有良好的人际沟通能力
+-   坚信终身学习，每周会制定学习计划，能自我驱动学习新的知识
+-   生活中，喜欢做一些有趣的事情来赶走无聊
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
