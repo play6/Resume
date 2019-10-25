@@ -41,21 +41,26 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java、JVM、Collection、Reflect、ClassLoader、Cache、Java Proxy
-- ★★★ Data Structure And Algorithm、设计模式
-- ★★★ NIO、JUC、AQS、Thread Pool、Annotation、泛型、Java8
-- ★★☆ Python、爬虫、Linux、Shell、Netty
-- ★★★ MySQL、Oracle、SqlServer、SQL优化
-- ★★★ Redis、MongoDB、ElasticSearch
-- ★★★ Hibernate、IBatis、MyBatis、JPA、JDBC
-- ★★★ Spring、Spring Security、Spring MVC、Spring Boot、Spring Cloud、Spring AOP
-- ★★★ Spring Scheduled、Quartz、XXL-JOB
-- ★★☆ Struts2、JSON处理(Jackson、FastJson、Gson)、JWT、Lombok
-- ★★☆ RabbitMQ、ZooKeeper、POI处理doc、excel、csv、pdf文件
-- ★★★ SVN、GIT、Maven、Gradle、Nginx、Swagger2
-- ★★★ Tomcat、Jetty、HttpClient、Docker
-- ★★☆ JavaScript、ExtJs、CSS、JSP、JQuery
-- ★★☆ Doc文档在线预览、MongoDB的GridFS大文件存储
+- 熟练掌握Java基础、集合、代理、反射、缓存，JVM、类加载机制、JUC、AQS、Annotation、泛型
+- 熟悉多线程技术，高并发技术，网络编程技术、NIO、Netty、Thread Pool、Java8
+- 熟练使用Spring 框架、Spring、Spring MVC、Spring Boot、Spring AOP、Spring Security
+- Spring Scheduled、Quartz、分布式任务调度Xxl-Job、Nginx、Linux、Shell
+- Data Structure And Algorithm、设计模式
+- Struts2、IBatis、Mybatis、JPA、Hibernate、JDBC、JSON处理工具(Fastjson、Jackjson、Gson)
+- 熟练使用Tomcat、Jetty、HttpClient、Docker、Swagger2
+- 熟练的使用ORACLE、MySQL、MongoDB，Redis，ElasticSearch
+- 有过SQL优化经历，MySQL调优、MySQL的主从架构、读写分离
+- 熟悉Zookeeper、中间件RabbitMQ、POI处理doc、excel、csv、pdf文件
+- 有微服务开发经历，基于Spring Cloud实现可分布式、高可用、可调度的数据处理加工系统
+- 有MongoDB分布式部署，优化存储速度，利用GridFS存储大文件数据
+- 有数据加工处理经历，处理过百万级数据量，优化处理速度
+- 有Doc文档在线预览处理，文件网盘预览处理的经历
+- 熟悉Web开发，熟悉使用HTML和JSP、CSS、JS、ExtJS、JQuery
+- 熟练使用Maven、Gradle、SVN、Git
+- 有搜索引擎的经历，利用ElasticSearch实现分布式部署、MySQL、SQLServer的数据同步至ES
+- 利用正则对文件信息的NLP提取分词正确性提供保证，加快NLP情感分析的处理速度
+- 编写过python，使用Python实现自动回复机器人、统计微信好友信息、爬虫、自动化脚本
+
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
