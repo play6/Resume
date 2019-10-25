@@ -1,14 +1,14 @@
  <center>
-     <h1>XXX</h1>
+     <h1>黄  勇  简  历</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             182xxxxx
+             15711320691
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             110xxxxx
+             921757697@qq.com
          </span>
          ·
          <span>
@@ -32,15 +32,35 @@
 
 ## <img src="assets/person.svg" width="30px"> 个人介绍
 
--   致力于Java开发的工作,拥有近4年开发经历 
+-   致力于Java开发的工作，拥有近4年开发经历 
 -   工作中注意细节，认真负责，具有强烈的责任感，善于思考、能发现问题并分析和及时解决问题
--   能快速的融入团队，具有良好的人际沟通能力
+-   能快速地融入团队，具有良好的人际沟通能力
 -   坚信终身学习，每周会制定学习计划，能自我驱动学习新的知识
--   生活中，喜欢做一些有趣的事情来赶走无聊
+-   生活中，爱折腾，写过Python爬虫、智能机器人自动回复，喜欢做一些有趣的事情来赶走无聊
+-   个人博客---> https://www.jianshu.com/u/8290a0f57153
+
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+
+- ★★★ Java、JVM、Collection、Reflect、ClassLoader、Cache、Java Proxy
+- ★★★ Data Structure And Algorithm、设计模式
+- ★★★ NIO、JUC、AQS、Thread Pool、Annotation、泛型、Java8
+- ★★☆ Python、爬虫、Linux、Shell、Netty
+- ★★★ MySQL、Oracle、SqlServer、SQL优化
+- ★★★ Redis、MongoDB、ElasticSearch
+- ★★★ Hibernate、IBatis、MyBatis、JPA、JDBC
+- ★★★ Spring、Spring Security、Spring MVC、Spring Boot、Spring Cloud、Spring AOP
+- ★★★ Spring Scheduled、Quartz、XXL-JOB
+- ★★☆ Struts2、JSON处理(Jackson、FastJson、Gson)、JWT、Lombok
+- ★★☆ RabbitMQ、ZooKeeper、POI处理doc、excel、csv、pdf文件
+- ★★★ SVN、GIT、Maven、Gradle、Nginx、Swagger2
+- ★★★ Tomcat、Jetty、HttpClient、Docker
+- ★★☆ JavaScript、ExtJs、CSS、JSP、JQuery
+- ★★☆ Doc文档在线预览、MongoDB的GridFS大文件存储
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 学士，哈尔滨学院，计算机科学与技术专业，2012.9~2016.7
+- 学士，哈尔滨学院，计算机科学与技术专业，2012.9~2016.7  
+
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -72,7 +92,7 @@
         -   技能战警信息，涉黄/涉毒/异常经济行为/异常社交行为概览信息展示。主要展示通联记录、社交好友记录、银行APP的入账/出账和社交APP的红包/转账的经济来往信息
   
 -   **块数据分析系统**
-    - *Struts2、MongoDB、Thread Pool、ETL(C++)、SQLServer、MySQL、JDBC、Jpa、MyBatis、ElasticSearch、Guava、NLP(分词、情感)、Python、JQuery、JavaScript、D3*
+    - *Struts2、MongoDB、Thread Pool、ETL(C++)、SQLServer、MySQL、JDBC、Jpa、MyBatis、ElasticSearch、Guava、NLP(分词、情感)、Swagger2、Nginx、Python、JQuery、JavaScript、D3*
     
     - 项目采用Struts2技术，对上传的批量文件提取出人物、组织、机构等相关信息、从而提出有关的可疑人物。
     该系统包括众多子系统，有烤鸭web端、数据管理、数据处理ETL、数据分析、数据研判、数据搜索、网盘浏览系统
@@ -106,17 +126,4 @@
     然后实施，部署，需求迭代变更，编写用户手册，管理员手册，测试报告，试运行文档，验收文档。
     -  对接质量系统
     
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java、JVM、Collection、Reflect、ClassLoader、Cache、Java Proxy
-- ★★★ NIO、JUC、Thread Pool、Annotation、Java8
-- ★☆☆ Python、爬虫、Shell、Netty
-- ★★★ MySQL、Oracle、SqlServer、SQL优化
-- ★★★ Redis、MongoDB、ElasticSearch
-- ★★★ Hibernate、IBatis、MyBatis、JPA、JDBC
-- ★★☆ Spring、Spring Security、Spring MVC、Spring Boot、Spring Cloud、Spring AOP
-- ★★☆ Struts2、JSON处理FastJson、Gson
-- ★★☆ RabbitMQ、ZooKeeper
-- ★★★ SVN、GIT、Maven、Gradle
-- ★★★ Tomcat、Docker
-- ★★☆ JavaScript、ExtJs、CSS、JSP、JQuery
