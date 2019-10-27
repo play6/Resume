@@ -1,5 +1,5 @@
  <center>
-     <h1>黄  勇  简  历</h1>
+     <h1>简  历</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
